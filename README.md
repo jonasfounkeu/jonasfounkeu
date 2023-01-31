@@ -91,7 +91,7 @@
   src="webpack.jpg"
   alt="Alt text"
   title="Optional title"
-  style="display: inline-block; margin: 0 auto; width: 25px">
+  style="display: inline-block; margin: 0 auto; width: 65px">
 
 
 ## My github stats
