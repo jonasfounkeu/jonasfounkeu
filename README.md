@@ -92,7 +92,36 @@
   alt="Alt text"
   title="Optional title"
   style="display: inline-block; margin: 0 auto; width: 65px">
-
+  <img
+  src="php.png"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; width: 65px">
+  <img
+  src="postgresql.png"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; width: 65px">
+  <img
+  src="python.png"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; width: 65px">
+  <img
+  src="Rxjs.jpg"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; width: 65px">
+  <img
+  src="svelte.jpg"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; width: 65px">
+<img
+  src="webpack.jpg"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; width: 65px">
 
 ## My github stats
 
