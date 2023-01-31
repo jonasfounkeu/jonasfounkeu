@@ -23,13 +23,14 @@
 
 
 
- [twitter.com](https://www.twitter.com/JFounkeu/) 
+<a href=" https://www.twitter.com/JFounkeu/" target="_blank">
+ 
  <img
   src="twitter.png"
   alt="Alt text"
   title="Optional title"
   style="display: inline-block; margin: 0 auto; width: 25px">
-
+</a>
 
 
 
