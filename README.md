@@ -21,16 +21,14 @@
   title="Optional title"
   style="display: inline-block; margin: 0 auto; width: 25px">
 
-
-
-<a href=" https://www.twitter.com/JFounkeu/" target="_blank">
+[twitter.com](https://www.twitter.com/JonasFounkeu/)
  
  <img
   src="twitter.png"
   alt="Alt text"
   title="Optional title"
   style="display: inline-block; margin: 0 auto; width: 25px">
-</a>
+
 
 
 
