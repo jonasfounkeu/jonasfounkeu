@@ -21,7 +21,7 @@
   title="Optional title"
   style="display: inline-block; margin: 0 auto; width: 25px">
 
-[twitter.com](https://www.twitter.com/JonasFounkeu/)
+[twitter.com](https://www.twitter.com/JFounkeu/)
  <img
   src="twitter.png"
   alt="Alt text"
