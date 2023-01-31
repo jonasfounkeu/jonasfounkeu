@@ -42,6 +42,59 @@
   alt="Alt text"
   title="Optional title"
   style="display: inline-block; margin: 0 auto; width: 25px">
+  <img
+  src="css3.png"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; width: 25px">
+  <img
+  src="git.png"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; width: 25px">
+  <img
+  src="MongoDB.jpg"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; width: 25px">
+  <img
+  src="nodejs.png"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; width: 25px">
+  <img
+  src="react.png"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; width: 25px">
+  <img
+  src="Redux.jpg"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; width: 25px">
+   <img
+  src="sass.png"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; width: 25px">
+   <img
+  src="typescript.png"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; width: 25px">
+   <img
+  src="vue.png"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; width: 25px">
+ <img
+  src="webpack.png"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; width: 25px">
+
+
+
 
 
 ## My github stats
