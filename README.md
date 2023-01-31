@@ -51,17 +51,17 @@
   src="git.png"
   alt="Alt text"
   title="Optional title"
-  style="display: inline-block; margin: 0 auto; width: 25px">
+  style="display: inline-block; margin: 0 auto; width: 55px">
   <img
   src="MongoDB.jpg"
   alt="Alt text"
   title="Optional title"
-  style="display: inline-block; margin: 0 auto; width: 25px">
+  style="display: inline-block; margin: 0 auto; width: 55px">
   <img
   src="nodejs.png"
   alt="Alt text"
   title="Optional title"
-  style="display: inline-block; margin: 0 auto; width: 25px">
+  style="display: inline-block; margin: 0 auto; width: 55px">
   <img
   src="react.png"
   alt="Alt text"
@@ -88,13 +88,10 @@
   title="Optional title"
   style="display: inline-block; margin: 0 auto; width: 25px">
  <img
-  src="webpack.png"
+  src="webpack.jpg"
   alt="Alt text"
   title="Optional title"
   style="display: inline-block; margin: 0 auto; width: 25px">
-
-
-
 
 
 ## My github stats
