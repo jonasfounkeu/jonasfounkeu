@@ -23,7 +23,7 @@
 
 
 
- [twitter.com](https://www.linkedin.com/in/jonasfounkeu/) 
+ [twitter.com](https://www.twitter.com/JFounkeu/) 
  <img
   src="twitter.png"
   alt="Alt text"
