@@ -14,23 +14,22 @@
 
 
 ## Connect with me:
- <a href="https://www.linkedin.com/in/jonasfounkeu/">
-  
+[linkedin.com](https://www.linkedin.com/in/jonasfounkeu/)
  <img
   src="lkd.png"
   alt="Alt text"
   title="Optional title"
   style="display: inline-block; margin: 0 auto; width: 25px">
-</a>
 
-<a href="https://twitter.com/JFounkeu">
-  
+
+
+ [twitter.com](https://www.linkedin.com/in/jonasfounkeu/) 
  <img
   src="twitter.png"
   alt="Alt text"
   title="Optional title"
   style="display: inline-block; margin: 0 auto; width: 25px">
-</a>
+
 
 
 
