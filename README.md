@@ -22,7 +22,6 @@
   style="display: inline-block; margin: 0 auto; width: 25px">
 
 [twitter.com](https://www.twitter.com/JonasFounkeu/)
- 
  <img
   src="twitter.png"
   alt="Alt text"
@@ -38,7 +37,6 @@
   alt="Alt text"
   title="Optional title"
   style="display: inline-block; margin: 0 auto; width: 25px">
-
 <img
   src="javascript.png"
   alt="Alt text"
