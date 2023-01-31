@@ -101,27 +101,23 @@
   src="postgresql.png"
   alt="Alt text"
   title="Optional title"
-  style="display: inline-block; margin: 0 auto; width: 65px">
+  style="display: inline-block; margin: 0 auto; width: 25px">
   <img
   src="python.png"
   alt="Alt text"
   title="Optional title"
-  style="display: inline-block; margin: 0 auto; width: 65px">
+  style="display: inline-block; margin: 0 auto; width: 25px">
   <img
   src="Rxjs.jpg"
   alt="Alt text"
   title="Optional title"
-  style="display: inline-block; margin: 0 auto; width: 65px">
+  style="display: inline-block; margin: 0 auto; width: 25px">
   <img
   src="svelte.jpg"
   alt="Alt text"
   title="Optional title"
-  style="display: inline-block; margin: 0 auto; width: 65px">
-<img
-  src="webpack.jpg"
-  alt="Alt text"
-  title="Optional title"
-  style="display: inline-block; margin: 0 auto; width: 65px">
+  style="display: inline-block; margin: 0 auto; width: 25px">
+
 
 ## My github stats
 
